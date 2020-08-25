@@ -1,0 +1,15 @@
+#root > div > header > div > div > form > div > div.col-8.pt-3.mx-auto > input {
+    background-color: black;
+    justify-self: center;
+    margin-left: 40%;
+}
+#root > div > header > div > div > form > div > div.col-8.pt-3.mx-auto > input:hover {
+    background-color: white!important;
+    justify-self: center;
+    margin-left: 40%;
+    color: black;
+}
+
+.btnContact:hover{
+    color: black!important;
+}

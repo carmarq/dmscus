@@ -1,0 +1,34 @@
+.topHeader{
+    height: 678px;
+    color: #F5D547;
+    text-shadow: 0 0 3px #000, 0 0 5px #000; 
+
+}
+.navbar {
+    background-color: Black;
+    color: white;
+}
+.homeLink {
+    color:white;
+}
+.navBtn1 {
+    padding: 5px!important;
+    margin-left: 1125px;
+}
+.btn-dark {
+    background-color: black!important;
+}
+
+.navBtn2{
+    padding: 5px!important;
+
+}
+
+
+
+@media screen and (mid-width:738px) and (max-width:2048px){
+    .navBtn1 {
+        margin-left: 1750px;
+        background-color: tomato;
+    }
+}

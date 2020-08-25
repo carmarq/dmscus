@@ -1,0 +1,16 @@
+
+
+.headerImage {
+    margin-top: 2%;
+    border-radius: 75px!important;
+    width: 1520px!important;  
+    height: 500px;
+    box-shadow: 0 0 3px #000, 0 10 5px #000; 
+}
+
+/* .headerBody {
+    justify-content: flex-end!important;
+    border-color: white;
+} */
+
+
